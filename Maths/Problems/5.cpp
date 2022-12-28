@@ -7,7 +7,7 @@ using namespace std;
 int count(int N){
     int ans = 0;
     long long lim = (long long ) N*N;
-    for(int x=1;x*x<=lim;x++){
+    for(int x=1;x<=N;x++){
         if(N%x==0){
             // x * y = N
             long long y = lim/x;
