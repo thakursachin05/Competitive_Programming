@@ -32,3 +32,7 @@ int main(){
         cout<<count(N)<<endl;
     }
 }
+
+
+
+// Think for 1e5 test cases
