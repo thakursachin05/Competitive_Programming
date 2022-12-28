@@ -10,10 +10,10 @@ int count(int N){
     for(int x=1;x*x<=lim;x++){
         if(N%x==0){
             // x * y = N
-            int y = lim/x;
+            long long y = lim/x;
             if(x < y && (x%2 == y%2)){
-                int C = (x+y)/2;
-                int B = (y-x)/2;
+                long long C = (x+y)/2;
+                long long B = (y-x)/2;
                // N * N + B*B = C*C
                 ans++;
             }
