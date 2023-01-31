@@ -9,4 +9,5 @@ Topic List :-
   <li>Dynamic Programming</li>  
   <li>Graphs</li>
   <li>String Alogrithms</li>
+  <li>Geometry</li>
 </ul>
