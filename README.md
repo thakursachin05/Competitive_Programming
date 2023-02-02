@@ -10,4 +10,5 @@ Topic List :-
   <li>Graphs</li>
   <li>String Alogrithms</li>
   <li>Geometry</li>
+  <li>Optimizations</li>
 </ul>
