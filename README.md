@@ -11,4 +11,5 @@ Topic List :-
   <li>String Alogrithms</li>
   <li>Geometry</li>
   <li>Optimizations</li>
+  <li>Trees</li>
 </ul>
