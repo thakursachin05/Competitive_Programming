@@ -12,4 +12,5 @@ Topic List :-
   <li>Geometry</li>
   <li>Optimizations</li>
   <li>Trees</li>
+  <li>Queues</li>
 </ul>
