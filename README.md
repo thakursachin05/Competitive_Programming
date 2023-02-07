@@ -13,4 +13,5 @@ Topic List :-
   <li>Optimizations</li>
   <li>Trees</li>
   <li>Queues</li>
+  <li>Heaps</li>
 </ul>
