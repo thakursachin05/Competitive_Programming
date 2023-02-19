@@ -22,4 +22,5 @@ Topic List :-
   <li> Codechef </li>
   <li> A2oj Ladders </li>
   <li> TopCoder </li>
+  <li> Spoj </li>
 </ol>
